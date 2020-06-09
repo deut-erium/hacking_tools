@@ -6,6 +6,7 @@ A library/package in disguise which trolls/teaches self-proclaimed hacker script
 * [Features](#features)
 * [Spread a word](#spreadword)
 * [Contact](#contact)
+* [Future Expectations](#future)
 
 ## <a name="introduction"></a>Introduction
 This library is aimed towards reduction in the number of illiterate(literally) often malicious script-kiddies by teaching them or [trolling](https://www.urbandictionary.com/define.php?term=Trolling) them otherwise, teaching them to be honest and responsible about their decisions.  
@@ -25,3 +26,7 @@ Are you interested in doing something silly-good? You are welcome!
 
 ## <a name="contact"></a>Contact
 * [Discord server](https://discord.gg/8nfVB4q) for casual/serious discussions (Valid upto a number of joins)
+
+## <a name="future"></a>Future Expectations
+This README is for developers, not HaCKeRs. This is expected to be replaced with a fake README.md which will describe HoWtoHaCk.  
+This file shall be moved to a source file or README.py cause hey, if they ever read the source.
