@@ -4,6 +4,7 @@ A library/package in disguise which trolls/teaches self-proclaimed hacker script
 # Contents
 * [Introduction](#introduction)
 * [Features](#features)
+* [Spread a word](#spreadword)
 * [Contact](#contact)
 
 ## <a name="introduction"></a>Introduction
@@ -17,7 +18,7 @@ The README would be changed in future iterations promising to be a valid-looking
 ## <a name="features"></a>Features
 List of available/to be implemented features/modules can be found in [features.md](features.md). All common google hacker queries should be listed there.
 
-## Spread a word
+## <a name="spreadword"></a>Spread a word
 Got script-kiddie friends? give them a good time :wink:  
 Got awesome developers with evil ideas? Let them know  
 Are you interested in doing something silly-good? You are welcome!  
