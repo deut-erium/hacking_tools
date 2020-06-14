@@ -87,7 +87,7 @@ def hack(n):
       
         start(username)
         sqlbinary(username)
-        #upload()
+        upload()
         gethash()
         decrypt()
         
